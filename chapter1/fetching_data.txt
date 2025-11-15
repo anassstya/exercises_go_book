@@ -1,0 +1,9 @@
+0.67s      92 https://en.wikipedia.org/wiki/History_of_the_Internet
+0.87s  187463 https://www.apple.com/
+1.99s 1722755 https://www.avito.ru/
+0.55s      92 https://en.wikipedia.org/wiki/History_of_the_Internet
+0.77s  187463 https://www.apple.com/
+1.20s   31225 https://www.avito.ru/
+0.52s      92 https://en.wikipedia.org/wiki/History_of_the_Internet
+0.71s  187463 https://www.apple.com/
+1.20s   31225 https://www.avito.ru/

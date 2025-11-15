@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56ed967b-99d6-419c-9a1e-98ea815d3027" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../algo/fib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coffe&amp;tea/src/components/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coffe&amp;tea/src/components/Contacts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coffe&amp;tea/src/components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coffe&amp;tea/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coffe&amp;tea/src/components/ItemCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coffe&amp;tea/src/components/Products.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coffe&amp;tea/src/data.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coffe&amp;tea/src/styles/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fixing/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fixing/src/RecordResults.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fixing/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fixing/src/itemsReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fixing/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fixing/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1.1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1.2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1.3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1.4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1.5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1.6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1.7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1.8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hooks&amp;contexApi2/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hooks&amp;contexApi2/src/ListAndDetails/ListAndDetails.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hooks&amp;contexApi2/src/ListAndDetails/ListAndDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hooks&amp;contexApi2/src/UseJsonFetch/UseJsonFetch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hooks&amp;contexApi2/src/UseJsonFetch/UseJsonFetch.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hooks&amp;contexApi2/src/UseJsonFetch/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hooks&amp;contexApi2/src/UseJsonFetch/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hooks&amp;contexApi2/src/UseJsonFetch/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../medmonent/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../medmonent/Date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../medmonent/HomeScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../medmonent/MyPills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../medmonent/Notification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../movie_search/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../movie_search/src/Data.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../movie_search/src/SearchComponent/Search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/Animations.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/Components/About.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/Components/BackendBlock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/Components/FrontendBlock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/Components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/Components/MeroBlock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/Components/Projects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/Pages/Loading.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/Pages/LoadingScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/css/About.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new-portfolio/src/css/Projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/Collections.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/Design.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/Design.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/FollowAlong.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/MainPart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/collectionData.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/collections.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/followAlong.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ourPlace/src/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../poortfolio1/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../poortfolio1/src/React Projects/Movie Search/MovieData.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../poortfolio1/src/React Projects/Movie Search/MovieDetailed.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../poortfolio1/src/React Projects/Movie Search/MovieMainPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../poortfolio1/src/React Projects/Movie Search/Movies.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../poortfolio1/src/React Projects/Movie Search/store/moviesSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../poortfolio1/src/React Projects/Movie Search/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project-portfolio1/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/project-portfolio/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react-router/src/CRUD/Crud.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react-router/src/Menu/DriftPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react-router/src/Menu/ForzaPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react-router/src/Menu/HomePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react-router/src/Menu/Menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react-router/src/Menu/Menu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react-router/src/Menu/TimeAttackPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react-router/src/Menu/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react_labs/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react_labs/src/DataAgregation/Agregation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react_labs/src/DataAgregation/Agregation.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react_labs/src/Format Publication Date/DateFormat.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react_labs/src/Format Publication Date/dateItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react_labs/src/Popular and New/Wrapper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react_labs/src/Popular and New/Wrapper.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../redux/src/Counter/CountReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../redux/src/Counter/Counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../redux/src/Counter/Counter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../redux/src/MainPage/MainPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../redux/src/MainPage/MainPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../redux/src/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../timezones/src/Clock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/Components/FormAdding.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled folder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled folder/custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled folder/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/567.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled1/second.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yoga-project/src/components/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yoga-project/src/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../алгоритмы/Binary Search/closestElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../алгоритмы/Binary Search/findMinimum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../алгоритмы/Binary Search/findPeak.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../алгоритмы/Binary Search/findSmallestLetter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../алгоритмы/Binary Search/rangeSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../алгоритмы/Binary Search/searchRotated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../алгоритмы/Binary Search/template 1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../алгоритмы/Binary Search/template 2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../алгоритмы/Binary Search/template 3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../алгоритмы/Binary Search/validPerfectSquere.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="35ToQwIOnqex8bOS7irBHri0NWD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.GoLinterPluginOnboarding": "true",
+    "RunOnceActivity.GoLinterPluginStorageMigration": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/a.nasstya/Desktop/go (tasks)/chapter1",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-f466f9b0953e-146d08934cbf-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-252.26830.102" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-GO-252.26830.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56ed967b-99d6-419c-9a1e-98ea815d3027" name="Changes" comment="" />
+      <created>1763143409377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763143409377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
